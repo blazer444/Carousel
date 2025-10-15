@@ -1,10 +1,9 @@
-import Carousel from "./components/Carousel";
+import Carousels from "./components/Carousels";
+
 
 function App() {
   return (
-    <div className="min-h-screen bg-gradient-to-r from-orange-600 to-yellow-400 flex items-center justify-center">
-      <Carousel />
-    </div>
+      <Carousels />
   );
 }
 
