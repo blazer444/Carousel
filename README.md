@@ -8,8 +8,8 @@
 Um projeto moderno de **carousel** desenvolvido com React, Vite, TailwindCSS e Swiper.  
 Contém dois carousels:  
 
-1. **Carousel Principal**: autoplay, navegação e paginação.  
-2. **Carousel Inferior**: autoplay contínuo em loop, múltiplos slides por vez.  
+1. **Carousel 1**: autoplay, navegação e paginação.  
+2. **Carousel 2**: autoplay contínuo em loop, múltiplos slides por vez.  
 
 ---
 
@@ -37,6 +37,7 @@ cd frontend
 ```bash
 npm install
 ```
+
 ---
 
 ## 3. Rodar o projeto
